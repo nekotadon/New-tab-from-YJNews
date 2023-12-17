@@ -1,0 +1,11 @@
+{
+    "name": {
+        "message": "New tab from YJNews"
+    },
+    "description": {
+        "message": "Yahoo! JAPANトップページのピックアップニュースリンクを新しいタブで開きます。"
+    },
+    "icon": {
+        "message": "New tab from YJNewsについて"
+    }
+}
